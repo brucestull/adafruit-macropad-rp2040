@@ -1,1 +1,1 @@
-# adafruit-macropad-rp2040
+# Adafruit MACROPAD RP2040
